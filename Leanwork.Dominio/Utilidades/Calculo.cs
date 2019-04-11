@@ -28,7 +28,7 @@ namespace Leanwork.Dominio.Utilidades
             }
 
             var resto = sequencia.Sum() % 10;
-
+            // Teste git
             return resto == 0;
         }
     }
